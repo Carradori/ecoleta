@@ -10,7 +10,7 @@ Ecoleta
 
 [//]: # "Add your gifs/images here:"
 
-<div style="display: flex; justify-content: space-around;">
+<div display = flex justify-content= space-around>
   <img src="./assets/web.gif" alt="Demonstração aplicação web" width="70%"/>
   <img src="./assets/mobile.gif" alt="Demonstração aplicação mobile" />
 </div>
