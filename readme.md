@@ -10,9 +10,9 @@ Ecoleta
 
 [//]: # "Add your gifs/images here:"
 
-<div>
-  <img src="./assets/web.gif" alt="Demonstração aplicação web" height="425">
-  <img src="./assets/mobile.gif" alt="Demonstração aplicação mobile" height="425">
+<div style="display: flex; justify-content: space-around;">
+  <img src="./assets/web.gif" alt="Demonstração aplicação web" width="70%"/>
+  <img src="./assets/mobile.gif" alt="Demonstração aplicação mobile" />
 </div>
 
 <hr />
