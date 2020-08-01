@@ -55,10 +55,17 @@ Você precisa ter:
   # entre na pasta do backend
   $ cd ./backend
 
+  # vá até src/controllers/ItemsController.ts
+  $ cd ./src/controllers
+  # nos arquivos ItemsController.ts e PointsController.ts - trocar onde estiver escrito "seu_ip_aqui" para o ip fixo da sua máquina
+
   # execute esse código no terminal (ele irá instalar todas as dependências)
   $ yarn add
   ou
   $ npm i
+
+  # fazer o migrate do knex para o banco de dados
+  $ yarn migrate:knex
 
   # inicie o servidor
   $ yarn dev
@@ -93,6 +100,10 @@ Você precisa ter:
   $ yarn add
   ou
   $ npm i
+
+  # vá até src/services/api.ts
+  $ cd ./src/services
+  # trocar onde estiver "seu_ip_aqui" para o ip fixo da máquina
 
   # inicie o app mobile
   $ expo start
