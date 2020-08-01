@@ -1,28 +1,32 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="./assets/logo.svg" alt="Ecoleta" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+Ecoleta
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Tem um ponto de coleta ou deseja verificar onde seria o melhor descarte para seu lixo? Esse app é para você!</p>
 
-[//]: # (Add your gifs/images here:)
+[//]: # "Add your gifs/images here:"
+
 <div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <img src="./assets/web.gif" alt="Demonstração aplicação web" height="425">
+  <img src="./assets/mobile.gif" alt="Demonstração aplicação mobile" height="425">
 </div>
 
 <hr />
 
-## Features
-[//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+## Tecnologias
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+[//]: # "Add the features of your project here:"
+
+Essa aplicação usa as tecnologias mais atuais do mercado.
+
+- ⚛️ **React Js** — Uma biblioteca JavaScript para criar interfaces de usuário
+- ⚛️ **React Native** — Uma biblioteca JavaScript que permite criar aplicativos nativod para Android e iOS
+- 💹 **Node Js** — Uma biblioteca que executa javascript fora do navegador
+- :diamond_shape_with_a_dot_inside:
 
 ## Getting started
 
